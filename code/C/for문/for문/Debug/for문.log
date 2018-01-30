@@ -1,6 +1,6 @@
 ﻿  ex10.c
-c:\users\yws\desktop\스터디\study\code\c\for문\for문\ex10.c(9): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-c:\users\yws\desktop\스터디\study\code\c\for문\for문\ex10.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+c:\users\yws\desktop\스터디\study\code\c\for문\for문\ex10.c(10): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\yws\desktop\스터디\study\code\c\for문\for문\ex10.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
   for문.vcxproj -> C:\Users\YWS\Desktop\스터디\Study\code\C\for문\Debug\for문.exe
   for문.vcxproj -> C:\Users\YWS\Desktop\스터디\Study\code\C\for문\Debug\for문.pdb (Partial PDB)
