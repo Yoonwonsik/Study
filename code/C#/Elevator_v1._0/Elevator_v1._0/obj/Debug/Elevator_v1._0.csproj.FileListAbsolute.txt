@@ -1,0 +1,10 @@
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\bin\Debug\Elevator_v1._0.exe.config
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\bin\Debug\Elevator_v1._0.exe
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\bin\Debug\Elevator_v1._0.pdb
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.csprojResolveAssemblyReference.cache
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.Form1.resources
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.Properties.Resources.resources
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.csproj.GenerateResource.cache
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.csproj.CoreCompileInputs.cache
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.exe
+C:\Users\YWS\Documents\Visual Studio 2017\Projects\Elevator_v1._0\Elevator_v1._0\obj\Debug\Elevator_v1._0.pdb
